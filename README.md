@@ -1,5 +1,9 @@
 # Hugo Lithium
 
+This is a customer version of hugo lithium, specifically for [sellorm's website](https://https://blog.sellorm.com).
+
+---
+
 A simple responsive blog theme for [Hugo](https://gohugo.io/).
 
 ![Hugo Lithium Theme Screenshot](https://raw.githubusercontent.com/jrutheiser/hugo-lithium-theme/master/images/screenshot.png)
