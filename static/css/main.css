@@ -51,7 +51,7 @@ img {
 }
 
 .nav {
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 0 15px;
   font-family: 'Lato', sans-serif;
@@ -92,15 +92,15 @@ img {
 
 .nav-links a {
   text-decoration: none;
-  color: #111;
+  color: white;
 }
 
 .nav-links a:hover {
-  color: #000;
+  color: lightgray;
 }
 
 .content {
-  max-width: 700px;
+  max-width: 900px;
   margin: 60px auto 80px;
   padding: 0 15px;
   font-size: 16px;
