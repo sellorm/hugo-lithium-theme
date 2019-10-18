@@ -1,6 +1,6 @@
 # Hugo Lithium
 
-This is a customer version of hugo lithium, specifically for [sellorm's website](https://https://blog.sellorm.com).
+This is a custom version of hugo lithium, specifically for [sellorm's website](https://https://blog.sellorm.com).
 
 ---
 
